@@ -1,4 +1,4 @@
-Here we design a small website using HTML and CSS in this project i created signup page
+                               Here we design a small website using HTML and CSS in this project i created signup page
 
 ![Screenshot 2024-08-05 092953](https://github.com/user-attachments/assets/f3367e3a-dc1a-4101-a2f1-877628a7430e)
 
